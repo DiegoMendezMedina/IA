@@ -1,0 +1,184 @@
+,origen,destino,longitud
+0,Pantitlan,Zaragoza,1320
+1,Zaragoza,Gomez Farias,762
+2,Gomez Farias,Boulevard Puerto Aereo,611
+3,Boulevard Puerto Aereo,Balbuena,595
+4,Balbuena,Moctezuma,703
+5,Moctezuma,San Lazaro,478
+6,San Lazaro,Candelaria,866
+7,Candelaria,Merced,698
+8,Merced,Pino Suarez,745
+9,Pino Suarez,Isabel la Catolica,382
+10,Isabel la Catolica,Salto del Agua,445
+11,Salto del Agua,Balderas,458
+12,Balderas,Cuauhtemoc,409
+13,Cuauhtemoc,Insurgentes,793
+14,Insurgentes,Sevilla,645
+15,Sevilla,Chapultepec,501
+16,Chapultepec,Juanacatlan,973
+17,Juanacatlan,Tacubaya,1158
+18,Tacubaya,Observatorio,1262
+19,Cuatro Caminos,Panteones,1639
+20,Panteones,Tacuba,1416
+21,Tacuba,Cuitlahuac,637
+22,Cuitlahuac,Popotla,620
+23,Popotla,Colegio Militar,462
+24,Colegio Militar,Normal,516
+25,Normal,San Cosme,657
+26,San Cosme,Revolucion,537
+27,Revolucion,Hidalgo,587
+28,Hidalgo,Bellas Artes,447
+29,Bellas Artes,Allende,387
+30,Allende,Zocalo,602
+31,Zocalo,Pino Suarez,745
+32,Pino Suarez,San Antonio Abad,817
+33,San Antonio Abad,Chabacano,642
+34,Chabacano,Viaducto,774
+35,Viaducto,Xola,490
+36,Xola,Villa de Cortes,698
+37,Villa de Cortes,Nativitas,750
+38,Nativitas,Portales,924
+39,Portales,Ermita,748
+40,Ermita,General Anaya,838
+41,General Anaya,Tasquena,1330
+42,Indios Verdes,Deportivo 18 de Marzo,1166
+43,Deportivo 18 de Marzo,Potrero,966
+44,Potrero,La Raza,1106
+45,La Raza,Tlatelolco,1445
+46,Tlatelolco,Guerrero,1042
+47,Guerrero,Hidalgo,702
+48,Hidalgo,Juarez,251
+49,Juarez,Balderas,659
+50,Balderas,Ninos Heroes,665
+51,Ninos Heroes,Hospital General,559
+52,Hospital General,Centro Medico,653
+53,Centro Medico,Etiopia,1119
+54,Etiopia,Eugenia,950
+55,Eugenia,Division del Norte,715
+56,Division del Norte,Zapata,794
+57,Zapata,Coyoacan,1153
+58,Coyoacan,Viveros,908
+59,Viveros,Miguel angel de Quevedo,824
+60,Miguel angel de Quevedo,Copilco,1295
+61,Copilco,Universidad,1306
+62,Santa Anita,Jamaica,758
+63,Jamaica,Fray Servando,1033
+64,Fray Servando,Candelaria,633
+65,Candelaria,Morelos,1062
+66,Morelos,Canal del Norte,910
+67,Canal del Norte,Consulado,884
+68,Consulado,Bondojito,645
+69,Bondojito,Talisman,959
+70,Talisman,Martin Carrera,1129
+71,Politecnico,Instituto del Petroleo,1188
+72,Instituto del Petroleo,Autobuses del Norte,1067
+73,Autobuses del Norte,La Raza,975
+74,La Raza,Misterios,892
+75,Misterios,Valle Gomez,969
+76,Valle Gomez,Consulado,679
+77,Consulado,Eduardo Molina,815
+78,Eduardo Molina,Aragon,860
+79,Aragon,Oceania,1219
+80,Oceania,Terminal Aerea,1174
+81,Terminal Aerea,Hangares,1153
+82,Hangares,Pantitlan,1644
+83,El Rosario,Tezozomoc,1257
+84,Tezozomoc,Azcapotzalco,973
+85,Azcapotzalco,Ferreria,1173
+86,Ferreria,Norte 45,1072
+87,Norte 45,Vallejo,660
+88,Vallejo,Instituto del Petroleo,755
+89,Instituto del Petroleo,Lindavista,1258
+90,Lindavista,Deportivo 18 de Marzo,1075
+91,Deportivo 18 de Marzo,La Villa Basilica,570
+92,La Villa Basilica,Martin Carrera,1141
+93,El Rosario,Aquiles Serdan,1615
+94,Aquiles Serdan,Camarones,1402
+95,Camarones,Refineria,952
+96,Refineria,Tacuba,1295
+97,Tacuba,San Joaquin,1433
+98,San Joaquin,Polanco,1163
+99,Polanco,Auditorio,812
+100,Auditorio,Constituyentes,1430
+101,Constituyentes,Tacubaya,1005
+102,Tacubaya,San Pedro de los Pinos,1084
+103,San Pedro de los Pinos,San Antonio,606
+104,San Antonio,Mixcoac,788
+105,Mixcoac,Barranca del Muerto,1476
+106,Garibaldi,Bellas Artes,634
+107,Bellas Artes,San Juan de Letran,456
+108,San Juan de Letran,Salto del Agua,292
+109,Salto del Agua,Doctores,564
+110,Doctores,Obrera,761
+111,Obrera,Chabacano,1143
+112,Chabacano,La Viga,843
+113,La Viga,Santa Anita,633
+114,Santa Anita,Coyuya,968
+115,Coyuya,Iztacalco,993
+116,Iztacalco,Apatlaco,910
+117,Apatlaco,Aculco,534
+118,Aculco,Escuadron 201,789
+119,Escuadron 201,Atlalilco,1738
+120,Atlalilco,Iztapalapa,732
+121,Iztapalapa,Cerro de la Estrella,717
+122,Cerro de la Estrella,UAM I,1135
+123,UAM I,Constitucion de 1917,1137
+124,Pantitlan,Puebla,1380
+125,Puebla,Ciudad Deportiva,800
+126,Ciudad Deportiva,Velodromo,1110
+127,Velodromo,Mixiuhca,821
+128,Mixiuhca,Jamaica,942
+129,Jamaica,Chabacano,1031
+130,Chabacano,Lazaro Cardenas,1000
+131,Lazaro Cardenas,Centro Medico,1059
+132,Centro Medico,Chilpancingo,1152
+133,Chilpancingo,Patriotismo,955
+134,Patriotismo,Tacubaya,1133
+135,Pantitlan,Agricola Oriental,1409
+136,Agricola Oriental,Canal de San Juan,1093
+137,Canal de San Juan,Tepalcates,1456
+138,Tepalcates,Guelatao,1161
+139,Guelatao,Penon Viejo,2206
+140,Penon Viejo,Acatitla,1379
+141,Acatitla,Santa Marta,1100
+142,Santa Marta,Los Reyes,1783
+143,Los Reyes,La Paz,1956
+144,Ciudad Azteca,Plaza Aragon,574
+145,Plaza Aragon,Olimpica,709
+146,Olimpica,Ecatepec,596
+147,Ecatepec,Muzquiz,1485
+148,Muzquiz,Rio de los Remedios,1155
+149,Rio de los Remedios,Impulsora,436
+150,Impulsora,Nezahualcoyotl,1393
+151,Nezahualcoyotl,Villa de Aragon,1335
+152,Villa de Aragon,Bosques de Aragon,784
+153,Bosques de Aragon,Deportivo Oceania,1165
+154,Deportivo Oceania,Oceania,863
+155,Oceania,Romero Rubio,809
+156,Romero Rubio,Ricardo Flores Magon,908
+157,Ricardo Flores Magon,San Lazaro,907
+158,San Lazaro,Morelos,1296
+159,Morelos,Tepito,498
+160,Tepito,Lagunilla,611
+161,Lagunilla,Garibaldi,474
+162,Garibaldi,Guerrero,757
+163,Guerrero,Buenavista,521
+164,Tlahuac,Tlaltenco,1298
+165,Tlaltenco,Zapotitlan,1115
+166,Zapotitlan,Nopalera,1276
+167,Nopalera,Olivos,1360
+168,Olivos,Tezonco,490
+169,Tezonco,Periferico Oriente,1545
+170,Periferico Oriente,Calle 11,1111
+171,Calle 11,Lomas Estrella,906
+172,Lomas Estrella,San Andres Tomatlan,1060
+173,San Andres Tomatlan,Culhuacan,990
+174,Culhuacan,Atlalilco,1671
+175,Atlalilco,Mexicaltzingo,1922
+176,Mexicaltzingo,Ermita,1805
+177,Ermita,Eje Central,895
+178,Eje Central,Parque de los Venados,1280
+179,Parque de los Venados,Zapata,563
+180,Zapata,Hospital 20 de Noviembre,450
+181,Hospital 20 de Noviembre,Insurgentes Sur,725
+182,Insurgentes Sur,Mixcoac,651
